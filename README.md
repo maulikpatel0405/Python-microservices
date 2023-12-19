@@ -5,3 +5,4 @@ Will create Python based project to mimic microservices.
 and Activating the Virtual environment when the Shell starts : 
 vim ~/.bashrc -> source ~/.venv/bin/activate
 (2)Create empty Files: 'Makefile', and all that is seen under the repository. 
+(3)GitHub has few templates made for us to build, run, test and deploy the code. Look out for more details in the Action 
