@@ -8,3 +8,5 @@ vim ~/.bashrc -> source ~/.venv/bin/activate
 (3)Populate 'Makefile' 
 (4)Set up continuous integration, i.e. Check code for issues like lint errors. GitHub has few templates made for us to build, run, test and deploy the code. Look out for more details in the Action 
 (5)Build a cli using python library './cli-fire.py --help ' to test logic.
+
+# Run the code with : python main.py to use fastAPI to search on wikipedia using python code to find out the results. 
